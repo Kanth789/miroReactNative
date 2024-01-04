@@ -20,7 +20,7 @@ const HomeScreen = ({ navigation }) => {
         headers: {
           Accept: "application/vnd.github+json",
           "X-GitHub-Api-Version": "2022-11-28",
-          Authorization: "Bearer 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",
+          Authorization: "Bearer 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",
         },
       });
 
